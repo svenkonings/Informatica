@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welkom
 
-You can use the [editor on GitHub](https://github.com/meteoorkip/KiesInformatica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welkom op de website voor het schoolvak informatica. Hierop kun je vinden waarom je voor het vak informatica zou moeten kiezen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Wat houdt informatica in?
 
-### Markdown
+Bij het schoolvak informatica leer je van alles over computers en alles wat daaromheen zit. Wat informatica uniek maakt, is dat je echt dingen maakt. In de vierde klas maak je zo bijvoorbeeld een website, en in de vijfde een game. Je bent daarbij helemaal vrij welk onderwerp je kiest. Je kunt zo je creativiteit de volle loop laten.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Voor wie is het vak?
 
-```markdown
-Syntax highlighted code block
+Het is handig om informatica te kiezen als je later een technische studie gaat kiezen. Je maakt bij zo'n studie namelijk veel gebruik van computers. Als je het schoolvak informatica gedaan hebt, heb je een enorme voorsprong op de rest van de studenten. Ook als je een wat minder technische studie gaat doen, kan het soms handig zijn om informatica te kiezen. Je kunt hiervoor informeren bij de hogeschool of universiteit waaraan je de opleiding wilt gaan volgen.
 
-# Header 1
-## Header 2
-### Header 3
+# Informatica, een vak voor alleen jongens?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meteoorkip/KiesInformatica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Veel mensen denken dat informatica een echt jongensvak is. Hoewel er over het algemeen meer jongens dan meisjes in een klas informatica zitten, is het vak ook voor meisjes ontzettend geschikt. Voor het maken van games hoeft er bijvoorbeeld niet alleen geprogrammeerd te worden, maar de levels en karakters moeten ook ontworpen en gemaakt worden. Als je een meisje vraagt of ze er spijt van heeft gehad dat ze informatica heeft gekozen, zal ze bijna altijd "nee" zeggen.
