@@ -31,14 +31,17 @@ Game maken met behulp van Game Maker
 Eind(ontwikkel)project onderwerp naar keuze
 
 # Waarom zou ik voor informatica kiezen?
-Je vindt computers leuk
-Je vindt project matig werken leuk
-Je vindt samenwerken leuk
-Je vindt ontwerpen leuk
-Je wilt meer leren over computers
-Je vindt dingen maken leuk
+|Je vindt computers leuk|
+|Je vindt project matig werken leuk|
+|Je vindt samenwerken leuk|
+|Je vindt ontwerpen leuk|
+|Je wilt meer leren over computers|
+|Je vindt dingen maken leuk|
 
 # Waarom zou ik niet voor informatica kiezen?
-Je hebt een chronische allergie voor computers
-Je wilt spelletje kunnen spelen tijdens de les
-Je wilt graag in contact komen met het vrouwelijk geslacht
+|Je hebt een chronische allergie voor computers|
+|Je wilt spelletje kunnen spelen tijdens de les|
+|Je wilt graag in contact komen met het vrouwelijk geslacht|
+
+# Waar kan ik terecht voor meer informatie over het schoolvak informatica?
+http://www.informaticavo.nl/over-het-vak
