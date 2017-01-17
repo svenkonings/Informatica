@@ -12,7 +12,7 @@ Het is handig om informatica te kiezen als je later een technische studie gaat k
 
 # Informatica, een vak voor alleen jongens?
 
-Veel mensen denken dat informatica een echt jongensvak is. Hoewel er over het algemeen meer jongens dan meisjes in een klas informatica zitten, is het vak ook voor meisjes ontzettend geschikt. Voor het maken van games hoeft er bijvoorbeeld niet alleen geprogrammeerd te worden, maar de levels en karakters moeten ook ontworpen en gemaakt worden. Als je een meisje vraagt of ze er spijt van heeft gehad dat ze informatica heeft gekozen, zal ze bijna altijd "nee" zeggen.
+Veel mensen denken dat informatica een echt jongensvak is. Hoewel er over het algemeen meer jongens dan meisjes in een klas informatica zitten, is het vak ook voor meisjes ontzettend geschikt. Voor het maken van games hoeft er bijvoorbeeld niet alleen geprogrammeerd te worden, maar de levels en karakters moeten ook ontworpen en gemaakt worden. Als je een meisje vraagt of ze er spijt van heeft gehad dat ze informatica heeft gekozen, zal ze bijna altijd "nee" zeggen. De eerste programmeur was een vrouw!
 
 # Wat ga je doen bij het vak informatica?
 De perioden zijn als volgt ingedeeld:
