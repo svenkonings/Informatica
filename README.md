@@ -31,6 +31,8 @@ De perioden zijn als volgt ingedeeld:
 12. Eind(ontwikkel)project onderwerp naar keuze
 
 # Waarom zou ik voor informatica kiezen?
+
+<!---
 | Redenen om het wel te kiezen      | Redenen om het niet te kiezen                              |
 | --------------------------------- | ---------------------------------------------------------- |
 | Je vindt computers leuk           | Je hebt een chronische allergie voor computers             |
@@ -39,6 +41,33 @@ De perioden zijn als volgt ingedeeld:
 | Je vindt ontwerpen leuk           |                                                            |
 | Je wilt meer leren over computers |                                                            |
 | Je vindt dingen maken leuk        |                                                            |
-
+-->
+<table>
+  <tr>
+    <th>Redenen om het wel te kiezen</th>
+    <th>Redenen om het niet te kiezen</th> 
+  </tr>
+  <tr>
+    <td>Je vindt computers leuk</td>
+    <td>Je hebt een chronische allergie voor computers</td> 
+  </tr>
+    <tr>
+    <td>Je vindt project matig werken leuk</td>
+    <td>Je wilt spelletje kunnen spelen tijdens de les</td> 
+  </tr>
+  <tr>
+    <td>Je vindt samenwerken leuk</td>
+    <td>Je wilt graag in contact komen met het vrouwelijk geslacht</td> 
+  </tr>
+  <tr>
+    <td>Je vindt ontwerpen leuk</td>
+  </tr>
+  <tr>
+    <td>Je wilt meer leren over computers</td>
+  </tr>
+  <tr>
+    <td>Je vindt dingen maken leuk</td>
+  </tr>
+</table>
 # Waar kan ik terecht voor meer informatie over het schoolvak informatica?
 http://www.informaticavo.nl/over-het-vak
