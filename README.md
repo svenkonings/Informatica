@@ -17,28 +17,28 @@ Veel mensen denken dat informatica een echt jongensvak is. Hoewel er over het al
 # Wat ga je doen bij het vak informatica?
 De perioden zijn als volgt ingedeeld:
 
-Informatie digitaal, communicatie en taal
-Website maken met behulp van HTML/CSS
-Computers en randapparatuur, Besturingssystemen
-Computernetwerken
-Algoritmen en Programmeertalen
-Programmeren
-Relationele databases en Databasemanagementsystemen
-Informatiemodellering en Mdelleeropdracht
-Security
-Projectmatig werken
-Game maken met behulp van Game Maker
-Eind(ontwikkel)project onderwerp naar keuze
+1.  Informatie digitaal & communicatie en taal
+2.  Website maken met behulp van HTML/CSS
+3.  Computers en randapparatuur & Besturingssystemen
+4.  Computernetwerken
+5.  Algoritmen en Programmeertalen
+6.  Programmeren
+7.  Relationele databases en Databasemanagementsystemen
+8.  Informatiemodellering en Mdelleeropdracht
+9.  Security
+10. Projectmatig werken
+11. Game maken met behulp van Game Maker
+12. Eind(ontwikkel)project onderwerp naar keuze
 
 # Waarom zou ik voor informatica kiezen?
-|Redenen om het wel te kiezen|Redenen om het niet te kiezen|
-|---|---|
-|Je vindt computers leuk|Je hebt een chronische allergie voor computers|
-|Je vindt project matig werken leuk|Je wilt spelletje kunnen spelen tijdens de les|
-|Je vindt samenwerken leuk|Je wilt graag in contact komen met het vrouwelijk geslacht|
-|Je vindt ontwerpen leuk|
-|Je wilt meer leren over computers|
-|Je vindt dingen maken leuk|
+| Redenen om het wel te kiezen      | Redenen om het niet te kiezen                              |
+| --------------------------------- | ---------------------------------------------------------- |
+| Je vindt computers leuk           | Je hebt een chronische allergie voor computers             |
+| Je vindt project matig werken leuk| Je wilt spelletje kunnen spelen tijdens de les             |
+| Je vindt samenwerken leuk         | Je wilt graag in contact komen met het vrouwelijk geslacht |
+| Je vindt ontwerpen leuk           |                                                            |
+| Je wilt meer leren over computers |                                                            |
+| Je vindt dingen maken leuk        |                                                            |
 
 # Waar kan ik terecht voor meer informatie over het schoolvak informatica?
 http://www.informaticavo.nl/over-het-vak
