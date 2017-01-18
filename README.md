@@ -32,16 +32,6 @@ De perioden zijn als volgt ingedeeld:
 
 # Waarom zou ik voor informatica kiezen?
 
-<!---
-| Redenen om het wel te kiezen      | Redenen om het niet te kiezen                              |
-| --------------------------------- | ---------------------------------------------------------- |
-| Je vindt computers leuk           | Je hebt een chronische allergie voor computers             |
-| Je vindt project matig werken leuk| Je wilt spelletje kunnen spelen tijdens de les             |
-| Je vindt samenwerken leuk         | Je wilt graag in contact komen met het vrouwelijk geslacht |
-| Je vindt ontwerpen leuk           |                                                            |
-| Je wilt meer leren over computers |                                                            |
-| Je vindt dingen maken leuk        |                                                            |
--->
 <table>
   <tr>
     <th>Redenen om het wel te kiezen</th>
@@ -61,13 +51,17 @@ De perioden zijn als volgt ingedeeld:
   </tr>
   <tr>
     <td>Je vindt ontwerpen leuk</td>
+    <td></td>
   </tr>
   <tr>
     <td>Je wilt meer leren over computers</td>
+    <td></td>
   </tr>
   <tr>
     <td>Je vindt dingen maken leuk</td>
+    <td></td>
   </tr>
 </table>
+
 # Waar kan ik terecht voor meer informatie over het schoolvak informatica?
 http://www.informaticavo.nl/over-het-vak
